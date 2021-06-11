@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623446578000,
+    "timestamp": 1623447840000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -45,7 +45,8 @@
       "lastUpdated": 1623445070000,
       "localized": {
         "en": {
-          "description": "Beste Anbiter f\u00fcr Kryptow\u00e4rungen mit mehr als 150 Coins ist eine sehr gro\u00dfe Auswahl gegeben.\r\nLeider muss man sich wie bei jeder Krypto B\u00f6rse mit Ausweis verifizieren."
+          "description": "Beste Anbiter f\u00fcr Kryptow\u00e4rungen mit mehr als 150 Coins ist eine sehr gro\u00dfe Auswahl gegeben.\r\nLeider muss man sich wie bei jeder Krypto B\u00f6rse mit Ausweis verifizieren.",
+          "featureGraphic": "binance.png"
         }
       }
     },
