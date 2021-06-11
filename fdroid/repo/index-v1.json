@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451428000,
+    "timestamp": 1623451679000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -102,6 +102,15 @@
       }
     },
     {
+      "suggestedVersionCode": "766",
+      "license": "Unknown",
+      "name": "ProtonMail",
+      "added": 1623451670000,
+      "icon": "ch.protonmail.android.766.png",
+      "packageName": "ch.protonmail.android",
+      "lastUpdated": 1623451678000
+    },
+    {
       "authorName": "Signal",
       "suggestedVersionCode": "86000",
       "license": "Unknown",
@@ -156,6 +165,86 @@
     }
   ],
   "packages": {
+    "ch.protonmail.android": [
+      {
+        "added": 1623451678000,
+        "apkName": "ProtonMail-Android.apk",
+        "hash": "084e0ae8060ace9615695c22454c2ad8492ca2dfcdcc34fd1ff901ba97fb0dfb",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "ch.protonmail.android",
+        "sig": "156bc7d5cb9089376a7b7e6b1d4fa758",
+        "signer": "dcc9439ec1a6c6a8d0203f3423ee42bcc8b970628e53cb73a0393f398dd5b853",
+        "size": 23934209,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ]
+        ],
+        "versionCode": 766,
+        "versionName": "1.13.29"
+      }
+    ],
     "com.binance.dev": [
       {
         "added": 1623445070000,
