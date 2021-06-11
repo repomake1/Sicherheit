@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448437000,
+    "timestamp": 1623448569000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -68,13 +68,25 @@
       }
     },
     {
+      "authorName": "Trust Wallet",
+      "categories": [
+        "Security",
+        "Internet",
+        "Money"
+      ],
       "suggestedVersionCode": "1622183277",
       "license": "Unknown",
       "name": "Trust Wallet",
       "added": 1623448427000,
       "icon": "com.wallet.crypto.trustapp.1622183277.xml",
       "packageName": "com.wallet.crypto.trustapp",
-      "lastUpdated": 1623448437000
+      "lastUpdated": 1623448437000,
+      "localized": {
+        "en-US": {
+          "description": "Sicheres Wallet mit gro\u00dfen Datenschutz. Hier werden keine Dokumente verlangt aber man muss auch an einer anderen B\u00f6rse seine Coins kaufen.",
+          "summary": "Kryptow\u00e4hrungen, Finazen"
+        }
+      }
     }
   ],
   "packages": {
