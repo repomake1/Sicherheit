@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448292000,
+    "timestamp": 1623448390000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -66,6 +66,15 @@
           "summary": "Messenger mit Wert auf Datenschutz"
         }
       }
+    },
+    {
+      "suggestedVersionCode": "1622183277",
+      "license": "Unknown",
+      "name": "Trust Wallet",
+      "added": 1623448383000,
+      "icon": "com.wallet.crypto.trustapp.1622183277.xml",
+      "packageName": "com.wallet.crypto.trustapp",
+      "lastUpdated": 1623448390000
     }
   ],
   "packages": {
@@ -232,6 +241,95 @@
         ],
         "versionCode": 14102,
         "versionName": "1.41.2"
+      }
+    ],
+    "com.wallet.crypto.trustapp": [
+      {
+        "added": 1623448390000,
+        "apkName": "Trust-Wallet.apk",
+        "hash": "85db119c1197fe5a6d466a4b09e562bc0e1b38c99851244b16493e5ea6720970",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "mips",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.wallet.crypto.trustapp",
+        "sig": "e04e4cd4fa8680d14f9fdcf6e4a7a652",
+        "signer": "35bd55e61cbd80153a0d3d5a606a42aeef3b99da7ba5e9ccd70e7303101c9c53",
+        "size": 34025670,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.wallet.crypto.trustapp.permission.PROCESS_PUSH_MSG",
+            null
+          ],
+          [
+            "com.wallet.crypto.trustapp.permission.PUSH_PROVIDER",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+            null
+          ]
+        ],
+        "versionCode": 1622183277,
+        "versionName": "1.29.12"
       }
     ],
     "de.eplus.mappecc.client.android.alditalk": [
