@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623445070000,
+    "timestamp": 1623445150000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -30,12 +30,18 @@
       }
     },
     {
+      "authorName": "Binace",
       "suggestedVersionCode": "14102",
       "license": "Unknown",
       "name": "Binance",
       "added": 1623445048000,
       "packageName": "com.binance.dev",
-      "lastUpdated": 1623445070000
+      "lastUpdated": 1623445070000,
+      "localized": {
+        "en": {
+          "summary": "Beste Anbiter f\u00fcr Kryptow\u00e4rungen mit mehr als 150 Coins ist eine sehr gro\u00dfe Auswahl gegeben."
+        }
+      }
     },
     {
       "suggestedVersionCode": "86000",
