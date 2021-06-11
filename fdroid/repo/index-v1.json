@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623450653000,
+    "timestamp": 1623451015000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -101,13 +101,20 @@
       }
     },
     {
+      "authorName": "Telegram",
       "suggestedVersionCode": "22939",
       "license": "Unknown",
       "name": "Telegram",
       "added": 1623450642000,
       "icon": "org.telegram.messenger.web.22939.png",
       "packageName": "org.telegram.messenger.web",
-      "lastUpdated": 1623450653000
+      "lastUpdated": 1623450653000,
+      "localized": {
+        "en": {
+          "description": "Messenger der zwar im Secure Chat sehr anonym ist aber seine Daten an beh\u00f6rden verkauft.",
+          "summary": "Messenger"
+        }
+      }
     },
     {
       "authorName": "Trust Wallet",
