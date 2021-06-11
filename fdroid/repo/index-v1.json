@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623445150000,
+    "timestamp": 1623445174000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -31,6 +31,11 @@
     },
     {
       "authorName": "Binace",
+      "categories": [
+        "Security",
+        "Internet",
+        "Money"
+      ],
       "suggestedVersionCode": "14102",
       "license": "Unknown",
       "name": "Binance",
