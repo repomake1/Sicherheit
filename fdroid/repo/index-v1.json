@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623444667000,
+    "timestamp": 1623445070000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -30,6 +30,14 @@
       }
     },
     {
+      "suggestedVersionCode": "14102",
+      "license": "Unknown",
+      "name": "Binance",
+      "added": 1623445048000,
+      "packageName": "com.binance.dev",
+      "lastUpdated": 1623445070000
+    },
+    {
       "suggestedVersionCode": "86000",
       "license": "Unknown",
       "name": "Signal",
@@ -45,6 +53,171 @@
     }
   ],
   "packages": {
+    "com.binance.dev": [
+      {
+        "added": 1623445070000,
+        "apkName": "Binance.apk",
+        "hash": "0e37366c8bea37e0132e3a85adefda1c0b74158d62b0efe9cec2f8ee41214f51",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.binance.dev",
+        "sig": "a94eadcd56d7a889fd364e859f9dfd96",
+        "signer": "64d9e9657ce3526b9b13858d46e5fc2987a861d29110d08e3799283b57df0558",
+        "size": 95079405,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FLASHLIGHT",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_OVERLAY_WINDOW",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_DOWNLOAD_MANAGER",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_USER_PRESENT",
+            null
+          ],
+          [
+            "MediaStore.Images.Media.INTERNAL_CONTENT_URI",
+            null
+          ],
+          [
+            "MediaStore.Images.Media.EXTERNAL_CONTENT_URI",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.MOUNT_UNMOUNT_FILESYSTEMS",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.binance.dev.permission.PROCESS_PUSH_MSG",
+            null
+          ],
+          [
+            "com.binance.dev.permission.PUSH_PROVIDER",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.binance.dev.permission.JPUSH_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.binance.dev.permission.MIPUSH_RECEIVE",
+            null
+          ],
+          [
+            "com.meizu.flyme.push.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.binance.dev.push.permission.MESSAGE",
+            null
+          ],
+          [
+            "com.meizu.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.binance.dev.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ]
+        ],
+        "versionCode": 14102,
+        "versionName": "1.41.2"
+      }
+    ],
     "de.eplus.mappecc.client.android.alditalk": [
       {
         "added": 1623441336000,
