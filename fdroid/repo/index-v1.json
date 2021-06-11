@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451304000,
+    "timestamp": 1623451338000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -53,13 +53,19 @@
       }
     },
     {
+      "authorName": "Logitech",
       "suggestedVersionCode": "114",
       "license": "Unknown",
       "name": "Harmony",
       "added": 1623451296000,
       "icon": "com.logitech.harmonyhub.114.png",
       "packageName": "com.logitech.harmonyhub",
-      "lastUpdated": 1623451303000
+      "lastUpdated": 1623451303000,
+      "localized": {
+        "en": {
+          "summary": "Universial Fernbedinung"
+        }
+      }
     },
     {
       "authorName": "Magisk",
