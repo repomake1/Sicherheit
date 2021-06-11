@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623449187000,
+    "timestamp": 1623449660000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -65,6 +65,14 @@
           "summary": "Manager f\u00fcr Wurzelberechtigung"
         }
       }
+    },
+    {
+      "suggestedVersionCode": "1650200102",
+      "license": "Unknown",
+      "name": "Orbot",
+      "added": 1623449651000,
+      "packageName": "org.torproject.android",
+      "lastUpdated": 1623449659000
     },
     {
       "authorName": "Signal",
@@ -784,6 +792,55 @@
         ],
         "versionCode": 86000,
         "versionName": "5.13.8"
+      }
+    ],
+    "org.torproject.android": [
+      {
+        "added": 1623449659000,
+        "apkName": "Orbot-16.5.0-ALPHA-2-tor.0.4.5.7-fullperm-arm64-v8a-release.apk",
+        "hash": "42c89f16dd57a2e190c68cbca4d8b67a46d455f48e32a4aaf2775ca9449ec13f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "org.torproject.android",
+        "sig": "8bd7e51b479aeba908ff46ada3305a29",
+        "signer": "a454b87a1847a89ed7f5e70fba6bba96f3ef29c26e0981204fe347bf231dfd5b",
+        "size": 16056709,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 1650200102,
+        "versionName": "16.5.0-ALPHA-2-tor.0.4.5.7"
       }
     ]
   }
