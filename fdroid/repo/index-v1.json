@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451131000,
+    "timestamp": 1623451304000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -51,6 +51,15 @@
           "summary": "Kryptow\u00e4hrungen, Finazen"
         }
       }
+    },
+    {
+      "suggestedVersionCode": "114",
+      "license": "Unknown",
+      "name": "Harmony",
+      "added": 1623451296000,
+      "icon": "com.logitech.harmonyhub.114.png",
+      "packageName": "com.logitech.harmonyhub",
+      "lastUpdated": 1623451303000
     },
     {
       "authorName": "Magisk",
@@ -303,6 +312,72 @@
         ],
         "versionCode": 14102,
         "versionName": "1.41.2"
+      }
+    ],
+    "com.logitech.harmonyhub": [
+      {
+        "added": 1623451303000,
+        "apkName": "Harmony_v5.7.9_apkpure.com.apk",
+        "features": [
+          "android.hardware.wifi",
+          "android.hardware.screen.portrait"
+        ],
+        "hash": "4079c12f1462cad75ebc69fb8791bb7b49410ddff0d74da313d577af0b85cbe2",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "com.logitech.harmonyhub",
+        "sig": "40549ccfd6f51487943f56c90434acff",
+        "signer": "e546d3be36d9f9f6e3aa4106d3e6c30baf955f3bd9d6316f9936e25c7c3c32ff",
+        "size": 13810938,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            22
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            22
+          ]
+        ],
+        "versionCode": 114,
+        "versionName": "5.7.9"
       }
     ],
     "com.topjohnwu.magisk": [
