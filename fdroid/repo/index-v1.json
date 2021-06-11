@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451979000,
+    "timestamp": 1623452084000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -113,7 +113,7 @@
       "localized": {
         "en": {
           "description": "E-Mail Anbieter der seine privilegien auf Datenschutz und Anonymisierung legt. Ihre Server stehen in der Schweiz was den ganzen noch mal deutlich mehr Sicherheit verschaft, da die da herschenden Datenschutz Gesetze unglaublich sind.\r\nIhre Zahlungsabteilung ist extra in einen anderen Land weil die Schweiz da neue Gesetze hat.",
-          "summary": "E-Mail"
+          "summary": "E-Mail, Datenschutz, Standort : Schweiz"
         }
       }
     },
