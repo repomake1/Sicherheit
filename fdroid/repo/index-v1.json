@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623444480000,
+    "timestamp": 1623444506000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -30,6 +30,15 @@
       }
     },
     {
+      "suggestedVersionCode": "1016",
+      "license": "Unknown",
+      "name": "ES File Explorer Pro",
+      "added": 1623444502000,
+      "icon": "com.estrongs.android.pop.pro.1016.png",
+      "packageName": "com.estrongs.android.pop.pro",
+      "lastUpdated": 1623444506000
+    },
+    {
       "suggestedVersionCode": "86000",
       "license": "Unknown",
       "name": "Signal",
@@ -45,6 +54,124 @@
     }
   ],
   "packages": {
+    "com.estrongs.android.pop.pro": [
+      {
+        "added": 1623444506000,
+        "apkName": "ESDateiExplorerPRO-1016-vPro_1.1.4.1.apk",
+        "hash": "f2b22a87e02901a39906998eebe0ebaf2462ac1ba272c052b4d914d414b8c1ec",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "armeabi",
+          "x86"
+        ],
+        "packageName": "com.estrongs.android.pop.pro",
+        "sig": "3dd1a75bd54f363a2e125cccc46237f3",
+        "signer": "0cfb4663831a0fb8d6973aad44e221a8ba78f7f684bd0b17d3b44bec82316484",
+        "size": 7309606,
+        "targetSdkVersion": 20,
+        "uses-permission": [
+          [
+            "android.permission.KILL_BACKGROUND_PROCESSES",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_MEDIA_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_SUPERUSER",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            ".PERMISSION",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.GET_TASKS",
+            null
+          ],
+          [
+            "com.android.vending.CHECK_LICENSE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 1016,
+        "versionName": "Pro 1.1.4.1"
+      }
+    ],
     "de.eplus.mappecc.client.android.alditalk": [
       {
         "added": 1623441336000,
