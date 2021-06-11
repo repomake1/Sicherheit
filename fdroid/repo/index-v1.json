@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451736000,
+    "timestamp": 1623451938000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -102,13 +102,20 @@
       }
     },
     {
+      "authorName": "Proton",
       "suggestedVersionCode": "766",
       "license": "Unknown",
       "name": "ProtonMail",
       "added": 1623451670000,
       "icon": "ch.protonmail.android.766.png",
       "packageName": "ch.protonmail.android",
-      "lastUpdated": 1623451678000
+      "lastUpdated": 1623451678000,
+      "localized": {
+        "en": {
+          "description": "E-Mail Anbieter der seine privilegien auf Datenschutz und Anonymisierung legt. Ihre Server stehen in der Schweiz was den ganzen noch mal deutlich mehr Sicherheit verschaft, da die da herschenden Datenschutz Gesetze unglaublich sind.\r\nIhre Zahlungsabteilung ist extra in einen anderen Land weil die Schweiz da neue Gesetze hat.",
+          "summary": "E-Mail"
+        }
+      }
     },
     {
       "suggestedVersionCode": "102069100",
