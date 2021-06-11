@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623449116000,
+    "timestamp": 1623449187000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -53,12 +53,18 @@
       }
     },
     {
+      "authorName": "Magisk",
       "suggestedVersionCode": "23000",
       "license": "Unknown",
       "name": "Magisk",
       "added": 1623449108000,
       "packageName": "com.topjohnwu.magisk",
-      "lastUpdated": 1623449116000
+      "lastUpdated": 1623449116000,
+      "localized": {
+        "en": {
+          "summary": "Manager f\u00fcr Wurzelberechtigung"
+        }
+      }
     },
     {
       "authorName": "Signal",
