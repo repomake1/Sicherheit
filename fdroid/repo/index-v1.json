@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623446480000,
+    "timestamp": 1623446525000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -16,6 +16,7 @@
   },
   "apps": [
     {
+      "authorName": "ALDI",
       "suggestedVersionCode": "108490",
       "license": "Unknown",
       "name": "ALDI TALK",
@@ -25,7 +26,7 @@
       "lastUpdated": 1623441336000,
       "localized": {
         "en": {
-          "summary": "Aldi Talk App um sich eine Flat zu buchen."
+          "description": "Aldi Talk App um sich eine Flat zu buchen."
         }
       }
     },
