@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623449660000,
+    "timestamp": 1623449750000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -67,12 +67,23 @@
       }
     },
     {
+      "authorName": "Tor Project",
+      "categories": [
+        "Security",
+        "Internet"
+      ],
       "suggestedVersionCode": "1650200102",
       "license": "Unknown",
       "name": "Orbot",
       "added": 1623449651000,
       "packageName": "org.torproject.android",
-      "lastUpdated": 1623449659000
+      "lastUpdated": 1623449659000,
+      "localized": {
+        "en": {
+          "description": "Verbindet dich mit dem Tor Netzwerk. Ab jetzt kannst du .onion Seiten besuchen aber sei Vorsichtig.",
+          "summary": "Datenschutz"
+        }
+      }
     },
     {
       "authorName": "Signal",
