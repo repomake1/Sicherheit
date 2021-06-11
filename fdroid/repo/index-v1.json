@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448704000,
+    "timestamp": 1623448738000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -53,14 +53,6 @@
       }
     },
     {
-      "suggestedVersionCode": "1623448698",
-      "license": "Unknown",
-      "name": "binance",
-      "added": 1623448698000,
-      "packageName": "binance",
-      "lastUpdated": 1623448704000
-    },
-    {
       "authorName": "Signal",
       "suggestedVersionCode": "86000",
       "license": "Unknown",
@@ -98,18 +90,6 @@
     }
   ],
   "packages": {
-    "binance": [
-      {
-        "added": 1623448704000,
-        "apkName": "binance.png",
-        "hash": "fabe8831f553d4bb88a2d5a6ea7bcb339d31f5926379ff39f36a0ae3d74f7105",
-        "hashType": "sha256",
-        "packageName": "binance",
-        "size": 74869,
-        "versionCode": 1623448698,
-        "versionName": "2021-06-11"
-      }
-    ],
     "com.binance.dev": [
       {
         "added": 1623445070000,
