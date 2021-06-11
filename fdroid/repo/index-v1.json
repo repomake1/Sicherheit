@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451938000,
+    "timestamp": 1623451979000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -118,13 +118,20 @@
       }
     },
     {
+      "authorName": "Proton",
       "suggestedVersionCode": "102069100",
       "license": "Unknown",
       "name": "ProtonVPN",
       "added": 1623451727000,
       "icon": "ch.protonvpn.android.102069100.png",
       "packageName": "ch.protonvpn.android",
-      "lastUpdated": 1623451735000
+      "lastUpdated": 1623451735000,
+      "localized": {
+        "en": {
+          "description": "VPN Anbieter der seine privilegien auf Datenschutz und Anonymisierung legt. Ihre Server stehen in der Schweiz was den ganzen noch mal deutlich mehr Sicherheit verschaft, da die da herschenden Datenschutz Gesetze unglaublich sind.\r\nIhre Zahlungsabteilung ist extra in einen anderen Land weil die Schweiz da neue Gesetze hat.",
+          "summary": "VPN, Datenschutz"
+        }
+      }
     },
     {
       "authorName": "Signal",
