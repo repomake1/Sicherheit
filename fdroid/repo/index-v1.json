@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448738000,
+    "timestamp": 1623449116000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -51,6 +51,14 @@
           "summary": "Kryptow\u00e4hrungen, Finazen"
         }
       }
+    },
+    {
+      "suggestedVersionCode": "23000",
+      "license": "Unknown",
+      "name": "Magisk",
+      "added": 1623449108000,
+      "packageName": "com.topjohnwu.magisk",
+      "lastUpdated": 1623449116000
     },
     {
       "authorName": "Signal",
@@ -253,6 +261,78 @@
         ],
         "versionCode": 14102,
         "versionName": "1.41.2"
+      }
+    ],
+    "com.topjohnwu.magisk": [
+      {
+        "added": 1623449116000,
+        "apkName": "Magisk-v23.0.apk",
+        "hash": "079bc3a7f67413cb12509d1b811958dd7e7c7fb593d3f0507954fea72077b524",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.topjohnwu.magisk",
+        "sig": "105d10fb25f10a57c43e38f9d2078a36",
+        "signer": "b4cb83b4dad99f997dbe872f013aa16c14eec41d167021f371f7e1330f273ee6",
+        "size": 6874374,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            29
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            29
+          ]
+        ],
+        "versionCode": 23000,
+        "versionName": "23.0"
       }
     ],
     "com.wallet.crypto.trustapp": [
