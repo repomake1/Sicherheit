@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448043000,
+    "timestamp": 1623448097000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -26,7 +26,8 @@
       "lastUpdated": 1623441336000,
       "localized": {
         "en": {
-          "description": "Aldi Talk App um sich eine Flat zu buchen."
+          "description": "Aldi Talk App um sich eine Flat zu buchen.",
+          "summary": "Mobilfunkanbieter"
         }
       }
     },
