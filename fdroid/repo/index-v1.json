@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623451679000,
+    "timestamp": 1623451736000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -109,6 +109,15 @@
       "icon": "ch.protonmail.android.766.png",
       "packageName": "ch.protonmail.android",
       "lastUpdated": 1623451678000
+    },
+    {
+      "suggestedVersionCode": "102069100",
+      "license": "Unknown",
+      "name": "ProtonVPN",
+      "added": 1623451727000,
+      "icon": "ch.protonvpn.android.102069100.png",
+      "packageName": "ch.protonvpn.android",
+      "lastUpdated": 1623451735000
     },
     {
       "authorName": "Signal",
@@ -243,6 +252,58 @@
         ],
         "versionCode": 766,
         "versionName": "1.13.29"
+      }
+    ],
+    "ch.protonvpn.android": [
+      {
+        "added": 1623451735000,
+        "apkName": "ProtonVPN-2.6.91.0.apk",
+        "hash": "6ddbf639063ccdf2717c30835d47e8a2cb4f40e7e545115ce62541df6cd43abb",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "ch.protonvpn.android",
+        "sig": "156bc7d5cb9089376a7b7e6b1d4fa758",
+        "signer": "dcc9439ec1a6c6a8d0203f3423ee42bcc8b970628e53cb73a0393f398dd5b853",
+        "size": 30574733,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 102069100,
+        "versionName": "2.6.91.0"
       }
     ],
     "com.binance.dev": [
