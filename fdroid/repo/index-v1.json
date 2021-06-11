@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623448023000,
+    "timestamp": 1623448043000,
     "version": 21,
     "name": "HighSec",
     "icon": "default-repo-icon.png",
@@ -62,7 +62,8 @@
       "lastUpdated": 1623429950000,
       "localized": {
         "en": {
-          "description": "Messenger mit Wert auf Datenschutz."
+          "description": "Messenger mit Wert auf Datenschutz.",
+          "summary": "Messenger"
         }
       }
     }
